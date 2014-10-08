@@ -10,4 +10,6 @@ public class Pato {
 	int peso;
 	int edad;
 	String name = new String("Paton");
+	int numero_hermanos;
+	String lugar_nacimiento;
 }
