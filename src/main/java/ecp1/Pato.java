@@ -9,4 +9,5 @@ public class Pato {
 	int numero_de_colas;
 	int peso;
 	int edad;
+	String name = new String("Paton");
 }
