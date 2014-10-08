@@ -8,4 +8,5 @@ public class Pato {
 	int numero_de_ojos;
 	int numero_de_colas;
 	int peso;
+	int edad;
 }
