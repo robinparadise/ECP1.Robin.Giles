@@ -12,4 +12,5 @@ public class Pato {
 	String name = new String("Paton");
 	int numero_hermanos;
 	String lugar_nacimiento;
+	String carnet_conducir;
 }
