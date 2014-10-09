@@ -13,4 +13,5 @@ public class Pato {
 	int numero_hermanos;
 	String lugar_nacimiento;
 	String carnet_conducir;
+	String sexo;
 }
